@@ -32,7 +32,7 @@ We want to express our deepest gratitude to all of you who joined us on this jou
 
 For those who wish to retrieve their data or have any questions or concerns regarding your Amrella account, please feel free to contact us at [<support@amrella.com>]. We will do our best to assist you during this transition.
 
-Once again, we apologize for any inconvenience this closure may cause and thank you for your understanding. We are immensely grateful for the time you spent with us on Amrella.
+Once again, we apologize for any inconvenience this closure may cause and thank you for your understanding. We are immensely grateful for the time you spent with us on Amrella. On the **bright side**, we have launched a **new** project where we [build your own social platform](https://dmi.my.canva.site/amrella)!
 
 Sincerely,
 

@@ -1,5 +1,4 @@
 ---
-layout: am_page_simple
 title: What Happened To Amrella?
 permalink: /sadnews
 ---

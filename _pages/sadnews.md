@@ -36,4 +36,5 @@ Once again, we apologize for any inconvenience this closure may cause and thank 
 
 Sincerely,
 
-Dewan Mukto, Founder, Amrella
+**Dewan Mukto** \
+Founder, Amrella

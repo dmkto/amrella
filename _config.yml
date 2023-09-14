@@ -6,10 +6,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author
 author-name:    Dewan Mukto
 author-image:   Dreamstudio-lowpoly-pfp.png
+author-banner: "https://amrella.com/wp-content/uploads/buddypress/members/2/cover-image/643ad1acd94d3-bp-cover-image.gif"
 author-job:     Writer, Developer, Marketer
 author-email:   dewanmukto@gmail.com # Add your email for contant form.
 author-twitter: dewan_mukto # Add your twitter account
 about-author:   ""
+author-location: Bangladesh # Add your current location
+author-country: Sylhet, Bangladesh # Add your home country
+author-website: "https://dewanmukto.repl.co/" # Add your website
+
+# Favorites
+fav-books: "Game Of Thrones"
+fav-games: "VRChat, Genshin Impact, Roblox"
+fav-movies: "Lord of the Rings, Ready Player One"
+fav-musicians: "Alan Walker, Cacti, Loving Caliber"
+fav-shows: "(Any anime series)"
 
 # Social settings
 social-twitter:   dewan_mukto

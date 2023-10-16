@@ -68,7 +68,7 @@ A special color-changing background for lighting up your bedroom at late night h
 
 ## Compare them yourself
 
-|PLATFORM|ADS & DISTRACTIONS|PERSONAL DATA PRIVACY|NUMBER OF FEATURES|
+|PLATFORM|DISTRACTIONS|DATA PRIVACY|FEATURES|
 |:---|:---:|:---:|:---:|
 |Facebook|🔴|🔴|🟢|
 |Messenger|🟠|🔴|🟠|

@@ -1,5 +1,5 @@
 ---
-layout: am_page
+layout: page
 title: Amrella Domains - Get Free Domains
 description: Register a subdomain for free or unlock your own via in-platform achievements! Paid domains are also available at discounted rates.
 permalink: /domains

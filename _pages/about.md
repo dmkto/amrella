@@ -1,5 +1,5 @@
 ---
-layout: am_about
+layout: page
 title: About
 permalink: /about
 ---

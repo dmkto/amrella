@@ -1,5 +1,5 @@
 ---
-layout: am_page
+layout: page
 title: Amrella Hosting - Cheapest Web Hosting
 description: Get 10 GB for less than $1 per month, billed annually. Credit options available. Contact Amrella for more details. A free hosting tier is also available.
 permalink: /hosting
